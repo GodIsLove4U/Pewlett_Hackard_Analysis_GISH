@@ -8,6 +8,7 @@ Software:
 - PostgresSQL 11.5
 
 ## Summary
+Database ERD:  
 ![Employee Database ERD](EmployeeDB.png)
 
 The `Queries` directory holds 2 `.sql` files containing all queries used for the formation of the tables. 
@@ -16,9 +17,11 @@ The `Queries` directory holds 2 `.sql` files containing all queries used for the
 The HR Director wants a list of candidates for the mentorship program. To create the list it's first necessary to select current employees eligible for retirement and their most recent titles. The director is also interested in seeing how many employees of each title are currently eligible for retirement. 
 
 ## Challenge Summary
-Retiring Employees with Title:
+Retiring Employees with Title:  
 ![Challenge Part 1](Challenge/challenge_part1.png)
-Title Frequency:
+
+Title Frequency:  
 ![Challenge Part 2](Challenge/title_freq.png)
-Mentors:
+
+Mentors:  
 ![Challenge Part 3](Challenge/mentors.png)
